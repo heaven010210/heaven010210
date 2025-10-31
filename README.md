@@ -40,9 +40,9 @@
   Vibing to : 🎧  
 </strong></p>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=top0329&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftop0329&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/TOP-grey?style=flat&logo=telegram)](https://t.me/top_329) <br>
+![Totals Hits](https://komarev.com/ghpvc/?username=heaven010210&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheaven010210&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![telegram badge](https://img.shields.io/badge/TOP-grey?style=flat&logo=telegram)](https://t.me/heaven9099) <br>
 </div>
 
 <hr></hr>
@@ -86,11 +86,11 @@ class About extends Me {
 }
 ```
 
--  <img alt="GIF" src="https://github.com/top0329/top0329/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently building **Crypto World**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/top0329/top0329/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/LINUX**. <br>
-- <img src="https://github.com/top0329/top0329/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Next, DEX, Solidity, Rust, Dapp, AI agent, or anything**. <br>
-- <img src="https://github.com/top0329/top0329/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[👀 TOP](https://t.me/top_329)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/top0329/top0329/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Blockchain's future will be eternal**.<br>
+-  <img alt="GIF" src="https://github.com/heaven010210/heaven010210/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently building **Crypto World**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+- <img src="https://github.com/heaven010210/heaven010210/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/LINUX**. <br>
+- <img src="https://github.com/heaven010210/heaven010210/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Next, DEX, Solidity, Rust, Dapp, AI agent, or anything**. <br>
+- <img src="https://github.com/heaven010210/heaven010210/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[👀 Heaven](https://t.me/heaven9099)**<br>
+- &nbsp;&nbsp;<img src="https://github.com/heaven010210/heaven010210/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Blockchain's future will be eternal**.<br>
 
 <div align="center" >
 
@@ -495,24 +495,24 @@ class About extends Me {
 </table>
 
 <p align="center">
-  <a href="https://github.com/ilyas030923?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ilyas030923&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@ilyas030923's github-readme-stats"/>
+  <a href="https://github.com/heaven010210?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=heaven010210&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@heaven010210's github-readme-stats"/>
   </a>
-  <a href="https://github.com/ilyas030923?tab=stars">
-    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ilyas030923&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <a href="https://github.com/heaven010210?tab=stars">
+    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=heaven010210&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   </a>
 </p>
 
 <p align="center">
-    <a href="https://wakatime.com/@ilyas030923">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilyas030923&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    <a href="https://wakatime.com/@heaven010210">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=heaven010210&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
 
 <div align='center' width='100%'>
-  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyas030923&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
-  <a width='50%' href="https://github.com/ilyas030923?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=ilyas030923&theme=onestar&no-frame=true&column=4&row=2"  height="250px" alt="@ilyas030923's trophy stats"/>
+  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heaven010210&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+  <a width='50%' href="https://github.com/heaven010210?tab=achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=heaven010210&theme=onestar&no-frame=true&column=4&row=2"  height="250px" alt="@heaven010210's trophy stats"/>
   </a>
 </div>
 
